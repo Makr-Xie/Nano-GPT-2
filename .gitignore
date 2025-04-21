@@ -1,5 +1,6 @@
 *.pt
 *.log
 *.DS_Store
+input.txt
 log/
 __pycache__/
